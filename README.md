@@ -4,6 +4,8 @@ AI-Powered Deepfake Detection for Images & Videos
 
 TruthLens AI is a full-stack web application that detects whether an image or video is REAL or FAKE using advanced AI/ML models and forensic techniques like Error Level Analysis (ELA).
 
+demo video = {https://youtu.be/7M6BlRiKiGc?si=4AIph-DIwJqQTH9x}
+
 🚀 Features
 🔍 Deepfake Detection (Images & Videos)
 🤖 AI Model Integration (Hugging Face Transformer)
