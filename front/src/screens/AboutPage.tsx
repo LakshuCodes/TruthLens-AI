@@ -225,7 +225,7 @@ export default function AboutPage() {
             ))}
           </div>
           <div style={{ maxWidth: 1280, margin: "48px auto 0", paddingTop: 32, borderTop: "1px solid #e2e8f0", textAlign: "center" }}>
-            <p style={{ fontSize: 14, color: "#64748b", margin: 0 }}>© 2024 TruthLens AI Forensic Systems. All rights reserved.</p>
+            <p style={{ fontSize: 14, color: "#64748b", margin: 0 }}>© 2026 TruthLens AI Forensic Systems. All rights reserved.</p>
           </div>
         </footer>
       </div>

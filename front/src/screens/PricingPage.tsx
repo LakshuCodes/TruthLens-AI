@@ -258,7 +258,7 @@ export default function PricingPage() {
           <div style={{ display: "flex", flexDirection: "row", justifyContent: "space-between", alignItems: "center", padding: "48px 32px", maxWidth: 1280, margin: "0 auto", flexWrap: "wrap" as const, gap: 24 }}>
             <div>
               <div style={{ fontSize: 18, fontWeight: 700, color: "#0f172a", marginBottom: 8 }}>TruthLens AI</div>
-              <p style={{ fontSize: 14, color: "#64748b", margin: 0 }}>© 2024 TruthLens AI. Forensic Precision in Media.</p>
+              <p style={{ fontSize: 14, color: "#64748b", margin: 0 }}>© 2026 TruthLens AI. Forensic Precision in Media.</p>
             </div>
             <div style={{ display: "flex", gap: 32, flexWrap: "wrap" as const }}>
               {["About", "Contact", "Privacy Policy", "Terms of Service"].map((item) => (
