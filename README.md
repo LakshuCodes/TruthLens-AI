@@ -181,13 +181,3 @@ Output:
 - Advanced reports  
 
 ---
-
-## 👨‍💻 Author
-
-Lakshyaa Singh  
-
----
-
-## ⭐ Contribute
-
-Feel free to fork and contribute!
